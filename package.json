@@ -1,0 +1,29 @@
+{
+  "name": "cellular-dungeon",
+  "version": "1.0.0",
+  "description": "Procedural dungeon generator using a cellular automaton",
+  "main": "dungeon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avgp/dungeon.git"
+  },
+  "keywords": [
+    "dungeon",
+    "level",
+    "procedural",
+    "generation",
+    "level",
+    "generator",
+    "cellular",
+    "automaton"
+  ],
+  "author": "Martin Naumann <martin@geekonaut.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avgp/dungeon/issues"
+  },
+  "homepage": "https://github.com/avgp/dungeon"
+}
