@@ -35,6 +35,7 @@ There's a few configuration options:
 [Check the online version here](http://avgp.github.io/cellular-dungeon/examples/browser/index.html)
 
 20x20 grid:
+
     ********************
     * ****             *
     * *****            *
@@ -57,6 +58,7 @@ There's a few configuration options:
     ********************
 
 40x20 grid:
+
     ****************************************
     ******     ***         *****************
     *******    ********  ****  **     ******
